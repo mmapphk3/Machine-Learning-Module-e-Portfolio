@@ -1,0 +1,21 @@
+e-portfolio/
+  ├── artefacts/
+  │   ├── section1/
+  │   │   └── README.md
+  │   ├── section2/
+  │   │   └── README.md
+  │   └── section11/
+  │       └── README.md
+  ├── contributions/
+  │   └── README.md
+  ├── evaluation/
+  │   └── README.md
+  └── reflection/
+      ├── section1/
+      │   └── README.md
+      ├── section2/
+      │   └── README.md
+      ├── section3/
+      │   └── README.md
+      └── section4/
+          └── README.md
