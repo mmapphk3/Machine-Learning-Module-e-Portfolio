@@ -1,6 +1,6 @@
 # Development 
 
-<p style="font-size: 20px;">This section includes artefacts demonstrating development over the duration of the module.</p>
+<p style="font-size: 40px;">This section includes artefacts demonstrating development over the duration of the module.</p>
 
 Reflecting on Industry 4.0 and the Equifax data breach of 2017 has deepened my understanding of the complex issues faced by machine learning professionals. Industry 4.0, with its integration of IoT, AI, robotics, and big data analytics, transformed the financial sector by enhancing data analytics, blockchain technology, cryptocurrencies, automation, and cybersecurity. Financial institutions utilized these technologies to offer personalized services, manage risks, detect fraud in real-time, and streamline operations. However, the Equifax breach, which exposed the personal information of approximately 147 million people, underscored the critical importance of robust cybersecurity measures.
 
