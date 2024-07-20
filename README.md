@@ -1,6 +1,6 @@
 # Machine-Learning-Module-e-Portfolio by Hasnain Khalid
 
-This e-portfolio collates all of my work in this module as well as my reflection.
+This e-portfolio documents my journey through the Machine Learning module, providing an in-depth exploration aimed at unraveling the complexities of machine learning.
 
 ## Sections
 
