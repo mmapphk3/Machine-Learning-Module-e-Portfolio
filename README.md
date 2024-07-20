@@ -4,7 +4,7 @@ This e-portfolio collates all of my work in this module as well as my reflection
 
 ## Sections
 
-- [Artefacts](artefacts/)
+- [Development](artefacts/)
 - [Project Work](contributions/)
 - [Reflection](reflection/)
 
