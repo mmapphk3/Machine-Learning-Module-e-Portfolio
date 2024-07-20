@@ -1,6 +1,6 @@
 # Reflection
 
-This section contains reflections on various aspects of the module.
+- This section contains reflections on various aspects of the module.
 
 - [Reflection Section 1](reflection/section1/README.md)
 - [Reflection Section 2](reflection/section2/README.md)
