@@ -17,8 +17,9 @@
 #### The process of creating and delivering this presentation on the Neural Network Model for Object Recognition was an invaluable learning experience, both technically and from a presentation skills perspective. Technically, I gained a deep understanding of the components and architecture of a convolutional neural network (CNN), specifically tailored for object recognition using the CIFAR-10 dataset. This involved hands-on experience with data preprocessing techniques such as normalization and one-hot encoding, understanding the significance of validation sets, and the intricate process of training the model while preventing overfitting. Additionally, I became proficient in implementing crucial elements of CNNs such as convolutional layers, max pooling layers, dropout layers, and activation functions like ReLU and softmax. The practical application of these concepts solidified my knowledge and underscored the importance of each component in achieving a well-performing model (Brownlee, 2022).
 
 
-<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/main/assets/images/TrainingandValidationLoss.png" alt="Corr Plot 1" style="width: 100%;">
+<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/TrainingandValidationLoss.png" alt="Corr Plot 1" style="width: 100%;">
 <p>Fig1: Training and Validation Accuracy and Loss</p>
+
 
 
 #### Fig1 shows the training and validation accuracy and loss over 25 epochs. This illustrates the model's learning process, with the training accuracy steadily increasing while the validation accuracy stabilizes, indicating potential overfitting after a certain point. The validation and training loss graphs further highlight this trend, with the validation loss beginning to increase after 10 epochs, suggesting diminishing returns on generalization performance. Through this, I learned the critical importance of monitoring both training and validation metrics to detect overfitting and adjust the training process accordingly to ensure better generalization (Lehn, 2023).
