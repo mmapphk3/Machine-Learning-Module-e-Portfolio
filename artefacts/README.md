@@ -16,6 +16,8 @@
 
 ### Experiment Analysis: Correlation and Covariance
 
+![Corr Plot 1](../assets/images/example_image.png)
+
 #### In a recent experiment, I explored the relationship between two variables by examining how changes in their variability affect correlation and covariance. The goal was to gain a deeper understanding of these statistical measures through practical application.
 
 #### Initially, I generated two datasets using a normal distribution. The first dataset, `data1`, was created with a mean of 100 and a standard deviation of 20. For the second dataset, `data2`, I added `data1` to another normally distributed set of values with a mean of 50 and a standard deviation of 10. This resulted in the formula: `data2 = data1 + (10 * randn(1000) + 50)`. After calculating the covariance matrix and Pearson's correlation coefficient for these datasets, I visualized the relationship with a scatter plot.
