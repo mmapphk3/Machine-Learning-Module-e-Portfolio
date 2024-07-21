@@ -75,8 +75,7 @@
 
 #### In this exercise, a perceptron was implemented to perform binary classification using the logical AND function. The inputs included all combinations of two binary values: (0,0), (0,1), (1,0), and (1,1), with corresponding outputs (0, 0, 0, 1). The perceptron was initialized with zero weights and a learning rate of 0.1. Using a step function activation, it returned 1 if the weighted sum was ≥ 1, otherwise 0.
 
-#### During training, the perceptron iteratively adjusted its weights to minimize errors by looping through each input instance, calculating predictions, determining errors, and updating weights if errors were non-zero. This process continued until the total error across all instances was zero, indicating that the perceptron had learned the correct weights to accurately classify the inputs.
-After training, the perceptron correctly classified all four input instances of the AND function: producing 0 for (0,0), (0,1), and (1,0), and 1 for (1,1). This demonstrated the perceptron’s successful learning of the logical AND operation (Viridi, 2023).
+#### During training, the perceptron iteratively adjusted its weights to minimize errors by looping through each input instance, calculating predictions, determining errors, and updating weights if errors were non-zero. This process continued until the total error across all instances was zero, indicating that the perceptron had learned the correct weights to accurately classify the inputs. After training, the perceptron correctly classified all four input instances of the AND function: producing 0 for (0,0), (0,1), and (1,0), and 1 for (1,1). This demonstrated the perceptron’s successful learning of the logical AND operation (Viridi, 2023).
 
 ### Reflecting on AI Writers: Risks and Benefits of the use AI writers at different levels
 
