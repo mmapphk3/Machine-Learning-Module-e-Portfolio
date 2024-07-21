@@ -10,7 +10,10 @@ On May 31st, as we each undertook separate exploratory data analyses (EDA), I fo
 
 Throughout the project, my contributions extended beyond data analysis. After each meeting, I actively participated in discussions to outline our next steps, ensuring our project remained organized and on track. In our final meeting, I completed the code for the analysis and meticulously documented my section in the appendix. My clustering methodology and proposed marketing strategies were integral parts of our final analytical report. The cohesive effort from all team members, combined with our ability to meet every mini-deadline we set, resulted in a comprehensive and well-rounded report. Our collective agreement on the final version before submission underscored the effectiveness of our teamwork and the thoroughness of our analysis.
 
-
+#
+#
+#
+#
 
 
 ### Evaluation of Neural Network Model for Object Recognition: Technical Insights and Presentation Experience
