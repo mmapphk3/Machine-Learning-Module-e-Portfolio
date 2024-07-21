@@ -51,11 +51,11 @@
 <table>
 <tr>
 <td>
-<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/Graph1.png" alt="Corr Plot 1" style="width: 100%;">
+<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/33ff56ad0e0af911c38422fc1d3a92703531f751/assets/images/LinReg1.png" alt="Corr Plot 1" style="width: 100%;">
 <p>Fig4: Original Data </p>
 </td>
 <td>
-<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/Graph2.png" alt="Corr Plot 2" style="width: 100%;">
+<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/33ff56ad0e0af911c38422fc1d3a92703531f751/assets/images/LinReg2.png" alt="Corr Plot 2" style="width: 100%;">
 <p>Fig5: Modified Data</p>
 </td>
 </tr>
