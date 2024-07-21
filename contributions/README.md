@@ -10,6 +10,9 @@ On May 31st, as we each undertook separate exploratory data analyses (EDA), I fo
 
 Throughout the project, my contributions extended beyond data analysis. After each meeting, I actively participated in discussions to outline our next steps, ensuring our project remained organized and on track. In our final meeting, I completed the code for the analysis and meticulously documented my section in the appendix. My clustering methodology and proposed marketing strategies were integral parts of our final analytical report. The cohesive effort from all team members, combined with our ability to meet every mini-deadline we set, resulted in a comprehensive and well-rounded report. Our collective agreement on the final version before submission underscored the effectiveness of our teamwork and the thoroughness of our analysis.
 
+
+
+
 ### Evaluation of Neural Network Model for Object Recognition: Technical Insights and Presentation Experience
 
 The process of creating and delivering this presentation on the Neural Network Model for Object Recognition was an invaluable learning experience, both technically and from a presentation skills perspective. Technically, I gained a deep understanding of the components and architecture of a convolutional neural network (CNN), specifically tailored for object recognition using the CIFAR-10 dataset. This involved hands-on experience with data preprocessing techniques such as normalization and one-hot encoding, understanding the significance of validation sets, and the intricate process of training the model while preventing overfitting. Additionally, I became proficient in implementing crucial elements of CNNs such as convolutional layers, max pooling layers, dropout layers, and activation functions like ReLU and softmax. The practical application of these concepts solidified my knowledge and underscored the importance of each component in achieving a well-performing model.
