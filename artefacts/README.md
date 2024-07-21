@@ -16,7 +16,7 @@
 
 ### Experiment Analysis: Correlation and Covariance
 
-![Corr Plot 1](../assets/images/example_image.png)
+![Corr Plot 1](assets/images/Graph 1.png)
 
 #### In a recent experiment, I explored the relationship between two variables by examining how changes in their variability affect correlation and covariance. The goal was to gain a deeper understanding of these statistical measures through practical application.
 
