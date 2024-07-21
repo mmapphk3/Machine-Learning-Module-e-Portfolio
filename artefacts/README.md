@@ -16,13 +16,6 @@
 
 ### Experiment Analysis: Correlation and Covariance
 
-![Corr Plot 1](https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/d5853a608cdd8edcf605acdf4d9fb78a8b848b65/assets/images/Graph1.png)
-Fig1: Correlation Plot 1
-
-
-![Corr Plot 2](https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/8942e8ccde8871995e08d511ce965baebf75276f/assets/images/Graph2.png)
-Fig2: Correlation Plot 2
-
 <table>
 <tr>
 <td>
