@@ -16,7 +16,12 @@
 
 ### Experiment Analysis: Correlation and Covariance
 
-![Corr Plot 1]([assets/images/Graph 1.png](https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/346a96e238944c4d80d107655275c11b0f65916f/assets/images/Graph%201.png)
+![Corr Plot 1](assets/images/Graph 1.png)
+####Fig1: Correlation Plot 1
+
+
+![Corr Plot 2](assets/images/Graph 2.png)
+####Fig2: Correlation Plot 2
 
 #### In a recent experiment, I explored the relationship between two variables by examining how changes in their variability affect correlation and covariance. The goal was to gain a deeper understanding of these statistical measures through practical application.
 
