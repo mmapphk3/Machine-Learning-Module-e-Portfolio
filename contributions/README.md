@@ -17,7 +17,7 @@
 #### The process of creating and delivering this presentation on the Neural Network Model for Object Recognition was an invaluable learning experience, both technically and from a presentation skills perspective. Technically, I gained a deep understanding of the components and architecture of a convolutional neural network (CNN), specifically tailored for object recognition using the CIFAR-10 dataset. This involved hands-on experience with data preprocessing techniques such as normalization and one-hot encoding, understanding the significance of validation sets, and the intricate process of training the model while preventing overfitting. Additionally, I became proficient in implementing crucial elements of CNNs such as convolutional layers, max pooling layers, dropout layers, and activation functions like ReLU and softmax. The practical application of these concepts solidified my knowledge and underscored the importance of each component in achieving a well-performing model (Brownlee, 2022).
 
 
-<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/main/assets/images/TrainingandValidationLoss.png" style="width: 100%;">
+<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/main/assets/images/TrainingandValidationLoss.png" alt="Corr Plot 1" style="width: 100%;">
 <p>Fig1: Training and Validation Accuracy and Loss</p>
 
 
