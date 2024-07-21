@@ -41,7 +41,7 @@
 
 ### Experiment Analysis: Linear Regression
 
-<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/33373a719527207159efd00e25fd07124a66cc46/assets/images/Data%201.png" alt="Corr Plot 1" style="width: 100%;">
+<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/Data%201.png" alt="Corr Plot 1" style="width: 100%;">
 <p>Fig3: Dataset</p>
 
 #### In a recent analysis, I used linear regression to explore the relationship between the independent variable x and the dependent variable y as in Fig3. Utilizing the `stats.linregress` method from the `scipy` library, I calculated the slope, intercept, r-value, p-value, and standard error for the linear regression. This allowed me to create a function, `myfunc`, which computes predicted y-values based on the x-values. Plotting the original scatter plot of x and y and superimposing the linear regression line revealed the direction and strength of the linear relationship, offering insights into how y changes with x (Debroy, 2023, Castiglioni, 2020).
