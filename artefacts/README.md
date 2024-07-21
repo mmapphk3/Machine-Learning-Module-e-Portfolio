@@ -23,6 +23,19 @@ Fig1: Correlation Plot 1
 ![Corr Plot 2](https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/8942e8ccde8871995e08d511ce965baebf75276f/assets/images/Graph2.png)
 Fig2: Correlation Plot 2
 
+<table>
+<tr>
+<td>
+<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/Graph1.png" alt="Corr Plot 1" style="width: 100%;">
+<p>Fig1: Correlation Plot 1</p>
+</td>
+<td>
+<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/Graph2.png" alt="Corr Plot 2" style="width: 100%;">
+<p>Fig2: Correlation Plot 2</p>
+</td>
+</tr>
+</table>
+
 #### In a recent experiment, I explored the relationship between two variables by examining how changes in their variability affect correlation and covariance. The goal was to gain a deeper understanding of these statistical measures through practical application.
 
 #### Initially, I generated two datasets using a normal distribution. The first dataset, `data1`, was created with a mean of 100 and a standard deviation of 20. For the second dataset, `data2`, I added `data1` to another normally distributed set of values with a mean of 50 and a standard deviation of 10. This resulted in the formula: `data2 = data1 + (10 * randn(1000) + 50)`. After calculating the covariance matrix and Pearson's correlation coefficient for these datasets, I visualized the relationship with a scatter plot.
