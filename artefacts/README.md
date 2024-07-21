@@ -42,11 +42,24 @@
 ### Experiment Analysis: Linear Regression
 
 <img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/33373a719527207159efd00e25fd07124a66cc46/assets/images/Data%201.png" alt="Corr Plot 1" style="width: 100%;">
-<p>Fig1: Correlation Plot 1</p>
+<p>Fig3: Correlation</p>
 
-#### In a recent analysis, I used linear regression to explore the relationship between the independent variable x ([5, 7, 8, 7, 2, 17, 2, 9, 4, 11, 12, 9, 6]) and the dependent variable \( y \) ([99, 86, 87, 88, 111, 86, 103, 87, 94, 78, 77, 85, 86]). Utilizing the `stats.linregress` method from the `scipy` library, I calculated the slope, intercept, r-value, p-value, and standard error for the linear regression. This allowed me to create a function, `myfunc`, which computes predicted \( y \)-values based on the \( x \)-values. Plotting the original scatter plot of \( x \) and \( y \) and superimposing the linear regression line revealed the direction and strength of the linear relationship, offering insights into how \( y \) changes with \( x \).
+#### In a recent analysis, I used linear regression to explore the relationship between the independent variable x and the dependent variable y as in Fig3. Utilizing the `stats.linregress` method from the `scipy` library, I calculated the slope, intercept, r-value, p-value, and standard error for the linear regression. This allowed me to create a function, `myfunc`, which computes predicted y-values based on the x-values. Plotting the original scatter plot of x and y and superimposing the linear regression line revealed the direction and strength of the linear relationship, offering insights into how y changes with x.
 
-#### Moreover, the linear regression model demonstrated practical predictive capabilities. By defining the function `myfunc` with the calculated slope and intercept, I predicted \( y \) for given x values. For instance, predicting y when x is 10 resulted in a value of approximately 85.58. This highlights the model's utility in making predictions based on the established relationship between the variables.
+#### Moreover, the linear regression model demonstrated practical predictive capabilities. By defining the function `myfunc` with the calculated slope and intercept, I predicted x for given x values. For instance, predicting y when x is 10 resulted in a value of approximately 85.58. This highlights the model's utility in making predictions based on the established relationship between the variables.
+
+<table>
+<tr>
+<td>
+<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/Graph1.png" alt="Corr Plot 1" style="width: 100%;">
+<p>Fig4: Original Data </p>
+</td>
+<td>
+<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/Graph2.png" alt="Corr Plot 2" style="width: 100%;">
+<p>Fig5: Modified Data</p>
+</td>
+</tr>
+</table>
 
 #### By increasing both the `x` and `y` variables by 20%, the linear regression model was recalibrated to reflect the new data points. This adjustment had a notable impact on the prediction for `x=10`. In the original dataset, the predicted value for `x=10` was approximately 85.58. After increasing the data points by 20%, the prediction for `x=10` shifted to a higher value due to the overall increase in the `y` values. This change demonstrates how scaling data impacts the regression coefficients, leading to a proportional adjustment in predicted outcomes. The new regression line, plotted against the modified data, illustrates this upward shift, indicating a stronger positive relationship as the data values increase.
 
