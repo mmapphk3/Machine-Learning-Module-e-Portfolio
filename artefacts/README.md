@@ -56,8 +56,16 @@
 
 #### In summary, Jack and Jim share the most similar pathological profiles, while Jim and Mary have the least similarity. This information can be valuable for medical diagnosis, treatment planning, and understanding the spread or characteristics of a disease within this group of individuals.
 
+### Perceptron Activities
+
+#### In this exercise, a simple perceptron model is implemented to understand its behavior with different input values and weights. The perceptron performs a weighted sum of the inputs and applies a step function to produce a binary output. Initially, with inputs of [45, 25] and weights of [0.7, 0.1], the weighted sum is 34, resulting in an output of 1, since the sum exceeds the threshold of 1. When the weights are changed to [-0.7, 0.1], the weighted sum becomes -29, leading to an output of 0, as the sum does not meet the threshold. This demonstrates how the perceptron's decision boundary is influenced by the weights, affecting whether the weighted sum meets the threshold for a given set of inputs. By altering the weights, the perceptron's classification output changes, illustrating the fundamental mechanism of binary classification in neural networks and the impact of weight adjustments on model behavior.
 
 
+### Training a Simple Perceptron for Binary Classification of Logical AND Operation
 
+#### In this exercise, a simple perceptron model was implemented to perform binary classification using a logical AND function. The inputs were defined as a matrix with four instances representing all possible combinations of two binary values (0,0), (0,1), (1,0), and (1,1). Corresponding outputs were defined as a vector representing the expected output for an AND operation, where only (1,1) produces a 1, and all other combinations produce a 0. The perceptron was initialized with zero weights for the two inputs and a learning rate of 0.1.
 
+#### The perceptron's activation function, a step function, returned 1 if the weighted sum of inputs was greater than or equal to 1, and 0 otherwise. The model's output for a given input instance was calculated by taking the dot product of the inputs and weights, followed by applying the step function. During the training process, the perceptron adjusted its weights iteratively to minimize the error between predicted and actual outputs. This involved looping through each input instance, calculating predictions, determining errors, and updating weights if the error was non-zero.
+
+#### The training continued until the total error across all instances was zero, indicating that the perceptron had learned the correct weights to classify the inputs accurately. After training, the final weights were used to classify new instances. The trained perceptron correctly classified all four input instances of the AND function: producing 0 for (0,0), (0,1), and (1,0), and 1 for (1,1). This demonstrated that the perceptron had successfully learned the logical AND operation, with the weights adjusted to correctly reflect the relationship between inputs and outputs for this binary classification task.
 
