@@ -44,7 +44,7 @@
 <img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/33373a719527207159efd00e25fd07124a66cc46/assets/images/Data%201.png" alt="Corr Plot 1" style="width: 100%;">
 <p>Fig3: Correlation</p>
 
-#### In a recent analysis, I used linear regression to explore the relationship between the independent variable x and the dependent variable y as in Fig3. Utilizing the `stats.linregress` method from the `scipy` library, I calculated the slope, intercept, r-value, p-value, and standard error for the linear regression. This allowed me to create a function, `myfunc`, which computes predicted y-values based on the x-values. Plotting the original scatter plot of x and y and superimposing the linear regression line revealed the direction and strength of the linear relationship, offering insights into how y changes with x.
+#### In a recent analysis, I used linear regression to explore the relationship between the independent variable x and the dependent variable y as in Fig3. Utilizing the `stats.linregress` method from the `scipy` library, I calculated the slope, intercept, r-value, p-value, and standard error for the linear regression. This allowed me to create a function, `myfunc`, which computes predicted y-values based on the x-values. Plotting the original scatter plot of x and y and superimposing the linear regression line revealed the direction and strength of the linear relationship, offering insights into how y changes with x (Debroy, 2023, Castiglioni, 2020).
 
 #### Moreover, the linear regression model demonstrated practical predictive capabilities. By defining the function `myfunc` with the calculated slope and intercept, I predicted x for given x values. For instance, predicting y when x is 10 resulted in a value of approximately 85.58. This highlights the model's utility in making predictions based on the established relationship between the variables.
 
@@ -65,15 +65,9 @@
 
 ### Analysis of Similarity in Pathological Test Results Using the Jaccard Coefficient"
 
-#### Based on the calculated Jaccard coefficients, we can draw conclusions about the similarity in pathological test results among the pairs of individuals.
+#### In this exercise, I analyze the pathological test results of three individuals—Jack, Mary, and Jim—to determine the similarity of their health profiles. By calculating the Jaccard coefficient for different pairs of individuals, I aim to understand the extent of shared characteristics in their test results. The Jaccard coefficient is a statistical measure used to compare the similarity and diversity of sample sets (Jadeja, 2022).
 
-#### Jack and Mary have a Jaccard coefficient of 0.43, indicating a moderate level of similarity in their pathological test results. This means that approximately 43% of their attributes match when ignoring 'A' (absent) values.
-
-#### Jack and Jim have a Jaccard coefficient of 0.67, suggesting a higher level of similarity in their test results compared to the other pairs. About 67% of their attributes are similar, making Jack and Jim the most similar pair among the three.
-
-#### Jim and Mary, with a Jaccard coefficient of 0.14, exhibit the lowest level of similarity in their pathological test results. Only about 14% of their attributes match, making them the least similar pair.
-
-#### In summary, Jack and Jim share the most similar pathological profiles, while Jim and Mary have the least similarity. This information can be valuable for medical diagnosis, treatment planning, and understanding the spread or characteristics of a disease within this group of individuals.
+#### The Jaccard coefficient between Jack and Mary is 0.43, indicating a moderate level of similarity, with approximately 43% of their attributes matching. Jack and Jim show a higher level of similarity, with a Jaccard coefficient of 0.67, indicating that 67% of their attributes are similar. On the other hand, Jim and Mary have the least similarity in their pathological profiles, with a Jaccard coefficient of 0.14, meaning only 14% of their attributes match. These results can help in medical diagnosis, treatment planning, and understanding the spread or characteristics of a disease within this group of individuals (Jadeja, 2022).
 
 ### Perceptron Activities
 
@@ -99,4 +93,10 @@ References:
 
 - panData (2023) 🐼 Exploratory Data Analysis (EDA): Techniques and methods for Effective ML models, Medium. Available at: https://medium.com/@panData/eda-pipeline-techniques-and-methods-for-effective-machine-learning-models-506d8ff0d664 (Accessed: 21 July 2024).
 
-- Ray, S. (2023) Data preprocessing: Handling missing values, outliers, and categorical data, Medium. Available at: https://medium.com/@sonalika_07/data-preprocessing-handling-missing-values-outliers-and-categorical-data-5ee7b4d5c783 (Accessed: 21 July 2024). 
+- Ray, S. (2023) Data preprocessing: Handling missing values, outliers, and categorical data, Medium. Available at: https://medium.com/@sonalika_07/data-preprocessing-handling-missing-values-outliers-and-categorical-data-5ee7b4d5c783 (Accessed: 21 July 2024).
+
+- Debroy, S. (2023) Simple linear regression in python, Medium. Available at: https://medium.com/@shuv.sdr/simple-linear-regression-in-python-a0069b325bf8 (Accessed: 21 July 2024). 
+
+- Castiglioni, A. (2020) Linear regression in python from scratch with scipy, statsmodels, sklearn, Medium. Available at: https://medium.com/analytics-vidhya/linear-regression-in-python-from-scratch-with-scipy-statsmodels-sklearn-da8e373cc89b (Accessed: 21 July 2024). 
+
+- Jadeja, M. (2022) Jaccard similarity made simple: A beginner’s guide to data comparison, Medium. Available at: https://medium.com/@mayurdhvajsinhjadeja/jaccard-similarity-34e2c15fb524 (Accessed: 21 July 2024). 
