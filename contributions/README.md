@@ -1,6 +1,6 @@
 # Project Work
 
-## This section details individual contributions to project work in unit 6 
+## This section details individual contributions to project work in unit 6 and unit 11
 
 ### Individual Contribution to Group Project: Analyzing High-End Airbnb Customer Preferences
 
