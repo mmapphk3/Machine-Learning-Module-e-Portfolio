@@ -6,7 +6,10 @@
 
 #### As a key member of our analytics team, I played a crucial role in shaping our project on high-spending Airbnb customers' preferences. During our brainstorming session on May 26th, we defined our main business question: “What are customers booking the top range of Airbnb reservations looking for?” Each member contributed ideas, fostering a collaborative environment. We also formulated follow-up questions on top booking areas, geographic patterns, and amenities influencing preferences. My facilitation of open discussions and encouragement of diverse perspectives were pivotal in ensuring well-rounded team decisions.
 
-#### In our May 31st meeting, I focused on K-means clustering for profiling high-spending Airbnb customers during our exploratory data analyses (EDA). Analyzing the top 25% of spenders in Manhattan and Brooklyn, I cleaned the data and used the elbow method to identify four distinct customer segments. Cluster 2, the highest spenders, preferred entire homes or apartments in Manhattan for extended stays, indicating a demand for space and luxury. These insights were critical for shaping our marketing strategies to effectively target premium customers.
+<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/MeetingNotes.png" alt="Corr Plot 1" style="width: 100%;">
+<p>Fig1: May 31st: Meeting Notes</p>
+
+#### Fig 1 shows our May 31st meeting meeting notes, I focused on K-means clustering for profiling high-spending Airbnb customers during our exploratory data analyses (EDA). Analyzing the top 25% of spenders in Manhattan and Brooklyn, I cleaned the data and used the elbow method to identify four distinct customer segments. Cluster 2, the highest spenders, preferred entire homes or apartments in Manhattan for extended stays, indicating a demand for space and luxury. These insights were critical for shaping our marketing strategies to effectively target premium customers.
 
 #### Throughout the project, I contributed beyond data analysis by participating in discussions to outline next steps and keep the project organized. In the final meeting, I completed the code and documented my section in the appendix. My clustering methodology and marketing strategies were key components of our final report. Our teamwork and adherence to deadlines led to a comprehensive report, and our collective agreement on the final version highlighted the effectiveness of our collaboration and analysis.
 
@@ -16,17 +19,17 @@
 
 
 <img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/TrainingandValidationLoss.png" alt="Corr Plot 1" style="width: 100%;">
-<p>Fig1: Training and Validation Accuracy and Loss</p>
+<p>Fig2: Training and Validation Accuracy and Loss</p>
 
 
-#### Figure 1 shows the training and validation accuracy and loss over 25 epochs. The training accuracy steadily increases, while the validation accuracy stabilizes, indicating potential overfitting after a certain point. The validation loss begins to increase after 10 epochs, highlighting diminishing returns on generalization performance. This experience taught me the importance of monitoring both training and validation metrics to detect overfitting and adjust the training process for better generalization (Lehn, 2023).
+#### Figure 2 shows the training and validation accuracy and loss over 25 epochs. The training accuracy steadily increases, while the validation accuracy stabilizes, indicating potential overfitting after a certain point. The validation loss begins to increase after 10 epochs, highlighting diminishing returns on generalization performance. This experience taught me the importance of monitoring both training and validation metrics to detect overfitting and adjust the training process for better generalization (Lehn, 2023).
 
 
 <img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/CNNResults.png" alt="Corr Plot 1" style="width: 100%;">
-<p>Fig2: Feature maps from the First Convolutional Layer </p>
+<p>Fig3: Feature maps from the First Convolutional Layer </p>
 
 
-#### This experience enhanced my ability to communicate complex technical ideas using visual aids. Creating the PowerPoint required careful planning to ensure each slide conveyed key points succinctly. Visual elements like pie charts, line graphs, diagrams, bar charts, and heatmaps effectively illustrated concepts and model performance. For example, Figure 2 shows feature maps from the first convolutional layer, highlighting how different filters capture various features. Recording the presentation improved my public speaking skills, helping me articulate thoughts clearly and maintain a steady pace. This experience underscored the importance of combining technical proficiency with effective communication.
+#### This experience enhanced my ability to communicate complex technical ideas using visual aids. Creating the PowerPoint required careful planning to ensure each slide conveyed key points succinctly. Visual elements like pie charts, line graphs, diagrams, bar charts, and heatmaps effectively illustrated concepts and model performance. For example, Figure 3 shows feature maps from the first convolutional layer, highlighting how different filters capture various features. Recording the presentation improved my public speaking skills, helping me articulate thoughts clearly and maintain a steady pace. This experience underscored the importance of combining technical proficiency with effective communication.
 
 
 
