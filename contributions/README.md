@@ -1,7 +1,11 @@
 # Project Work
 
-This section details individual contributions to the projects.
+## This section details individual contributions to project work in unit 6 
 
-- Project 1
-- Project 2
-- Project 3
+### Individual Contribution to Group Project: Analyzing High-End Airbnb Customer Preferences
+
+As a key member of our analytics team, I played a crucial role in shaping the direction and execution of our project aimed at understanding the preferences of high-spending Airbnb customers. Our collective brainstorming session on May 26th was instrumental in defining our main business question: "What are the customers (booking the top range of Airbnb reservations) looking for?" During this session, each group member actively listened and contributed ideas, fostering a collaborative environment that enabled us to reach a consensus. We also formulated follow-up questions focusing on the top booking areas, potential geographic patterns, and amenities influencing booking preferences. My ability to facilitate open discussions and encourage diverse perspectives was pivotal in ensuring our team made well-rounded decisions.
+
+On May 31st, as we each undertook separate exploratory data analyses (EDA), I focused specifically on K-means clustering to profile high-spending Airbnb customers. My analysis targeted the top 25% of spenders in Manhattan and Brooklyn, with the aim of understanding the variables influencing their spending behaviors. After meticulously cleaning the data by removing null values, I utilized the elbow method to determine the optimal number of clusters, resulting in the identification of four distinct customer segments. My findings revealed that Cluster 2, representing the highest spenders, preferred entire homes or apartments in Manhattan for extended stays, highlighting a demand for space and luxury. The insights derived from this clustering analysis were critical in shaping our marketing strategies, allowing us to tailor our approach to meet the needs of premium customers effectively.
+
+Throughout the project, my contributions extended beyond data analysis. After each meeting, I actively participated in discussions to outline our next steps, ensuring our project remained organized and on track. In our final meeting, I completed the code for the analysis and meticulously documented my section in the appendix. My clustering methodology and proposed marketing strategies were integral parts of our final analytical report. The cohesive effort from all team members, combined with our ability to meet every mini-deadline we set, resulted in a comprehensive and well-rounded report. Our collective agreement on the final version before submission underscored the effectiveness of our teamwork and the thoroughness of our analysis.
