@@ -51,11 +51,11 @@
 <table>
 <tr>
 <td>
-<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/33ff56ad0e0af911c38422fc1d3a92703531f751/assets/images/LinReg1.png" alt="Corr Plot 1" style="width: 100%;">
+<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/LinReg1.png" alt="Corr Plot 1" style="width: 100%;">
 <p>Fig4: Original Data </p>
 </td>
 <td>
-<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/33ff56ad0e0af911c38422fc1d3a92703531f751/assets/images/LinReg2.png" alt="Corr Plot 2" style="width: 100%;">
+<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/LinReg2.png" alt="Corr Plot 2" style="width: 100%;">
 <p>Fig5: Modified Data</p>
 </td>
 </tr>
@@ -65,7 +65,7 @@
 
 ### Analysis of Similarity in Pathological Test Results Using the Jaccard Coefficient"
 
-<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/main/assets/images/TestResults.png" alt="Corr Plot 1" style="width: 100%;">
+<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/TestResults.png" alt="Corr Plot 1" style="width: 100%;">
 <p>Fig6: Pathological Test Results </p>
 
 #### In this exercise, I analyze the pathological test results of three individuals—Jack, Mary, and Jim—to determine the similarity of their health profiles. By calculating the Jaccard coefficient for different pairs of individuals, I aim to understand the extent of shared characteristics in their test results. The Jaccard coefficient is a statistical measure used to compare the similarity and diversity of sample sets (Jadeja, 2022).
