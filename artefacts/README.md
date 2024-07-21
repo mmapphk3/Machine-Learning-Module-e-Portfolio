@@ -20,7 +20,7 @@
 Fig1: Correlation Plot 1
 
 
-![Corr Plot 2](assets/images/Graph2.png)
+![Corr Plot 2](https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/blob/8942e8ccde8871995e08d511ce965baebf75276f/assets/images/Graph2.png)
 Fig2: Correlation Plot 2
 
 #### In a recent experiment, I explored the relationship between two variables by examining how changes in their variability affect correlation and covariance. The goal was to gain a deeper understanding of these statistical measures through practical application.
