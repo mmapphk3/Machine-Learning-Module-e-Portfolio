@@ -9,9 +9,9 @@
 <img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/MeetingNotes.png" alt="Corr Plot 1" style="width: 50%;"> 
 <p>Fig1: May 31st: Meeting Notes</p>
 
-#### Fig 1 shows our May 31st meeting meeting notes, I focused on K-means clustering for profiling high-spending Airbnb customers during our exploratory data analyses (EDA). Analyzing the top 25% of spenders in Manhattan and Brooklyn, I cleaned the data and used the elbow method to identify four distinct customer segments. Cluster 2, the highest spenders, preferred entire homes or apartments in Manhattan for extended stays, indicating a demand for space and luxury. These insights were critical for shaping our marketing strategies to effectively target premium customers.
+#### Fig 1 shows our May 31st meeting meeting notes, I focused on K-means clustering for profiling high-spending Airbnb customers during our exploratory data analyses (EDA). Analysing the top 25% of spenders in Manhattan and Brooklyn, I cleaned the data and used the elbow method to identify four distinct customer segments. Cluster 2, the highest spenders, preferred entire homes or apartments in Manhattan for extended stays, indicating a demand for space and luxury. These insights were critical for shaping our marketing strategies to effectively target premium customers.
 
-#### Throughout the project, I contributed beyond data analysis by participating in discussions to outline next steps and keep the project organized. In the final meeting, I completed the code and documented my section in the appendix. My clustering methodology and marketing strategies were key components of our final report. Our teamwork and adherence to deadlines led to a comprehensive report, and our collective agreement on the final version highlighted the effectiveness of our collaboration and analysis.
+#### Throughout the project, I contributed beyond data analysis by participating in discussions to outline next steps and keep the project organised. In the final meeting, I completed the code and documented my section in the appendix. My clustering methodology and marketing strategies were key components of our final report. Our teamwork and adherence to deadlines led to a comprehensive report, and our collective agreement on the final version highlighted the effectiveness of our collaboration and analysis.
 
 ### Evaluation of Neural Network Model for Object Recognition: Technical Insights and Presentation Experience
 
@@ -22,7 +22,7 @@
 <p>Fig2: Training and Validation Accuracy and Loss</p>
 
 
-#### Figure 2 shows the training and validation accuracy and loss over 25 epochs. The training accuracy steadily increases, while the validation accuracy stabilizes, indicating potential overfitting after a certain point. The validation loss begins to increase after 10 epochs, highlighting diminishing returns on generalization performance. This experience taught me the importance of monitoring both training and validation metrics to detect overfitting and adjust the training process for better generalization (Lehn, 2023).
+#### Figure 2 shows the training and validation accuracy and loss over 25 epochs. The training accuracy steadily increases, while the validation accuracy stabilizes, indicating potential overfitting after a certain point. The validation loss begins to increase after 10 epochs, highlighting diminishing returns on generalisation performance. This experience taught me the importance of monitoring both training and validation metrics to detect overfitting and adjust the training process for better generalisation (Lehn, 2023).
 
 
 <img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/CNNResults.png" alt="Corr Plot 1" style="width: 100%;">
