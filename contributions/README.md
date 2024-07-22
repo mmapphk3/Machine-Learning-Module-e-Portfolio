@@ -2,7 +2,7 @@
 
 ## This section details individual contributions to project work in unit 6 and unit 11
 
-### Individual Contribution to Group Project: Analyzing High-End Airbnb Customer Preferences
+### Individual Contribution to Group Project: Analysing High-End Airbnb Customer Preferences
 
 #### As a key member of our analytics team, I played a crucial role in shaping our project on high-spending Airbnb customers' preferences. During our brainstorming session on May 26th, we defined our main business question: “What are customers booking the top range of Airbnb reservations looking for?” Each member contributed ideas, fostering a collaborative environment. We also formulated follow-up questions on top booking areas, geographic patterns, and amenities influencing preferences. My facilitation of open discussions and encouragement of diverse perspectives were pivotal in ensuring well-rounded team decisions.
 
