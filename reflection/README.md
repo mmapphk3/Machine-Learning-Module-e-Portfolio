@@ -1,8 +1,4 @@
-# Reflection                                                                  
-
-You can view my complete e-portfolio for this module at the following URL: 
-
-[https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio]
+# Reflection                    View my complete e-portfolio for this module at: [https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio]                                                              
 
 My journey through the machine learning module was both challenging and enlightening, providing a comprehensive understanding of machine learning principles and their practical applications. This reflective piece examines my experiences, emotions, and learning outcomes, drawing on my development work and project engagements.
 
