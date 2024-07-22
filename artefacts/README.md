@@ -4,7 +4,7 @@
 
 ### Collaborative Discussion 1
 
-#### Reflecting on Industry 4.0 and the 2017 Equifax data breach highlights complex challenges for machine learning professionals. Industry 4.0 integrates IoT, AI, robotics, and big data analytics, transforming the financial sector by enhancing data analytics, blockchain, cryptocurrencies, automation, and cybersecurity. These advancements enable personalized services, risk management, fraud detection, and streamlined operations. However, the Equifax breach, exposing the personal information of 147 million people, underscored the importance of robust cybersecurity (Schwab, 2016; Fruhlinger, 2020).
+#### Reflecting on Industry 4.0 and the 2017 Equifax data breach highlights complex challenges for machine learning professionals. Industry 4.0 integrates IoT, AI, robotics, and big data analytics, transforming the financial sector by enhancing data analytics, blockchain, cryptocurrencies, automation, and cybersecurity. These advancements enable personalised services, risk management, fraud detection, and streamlined operations. However, the Equifax breach, exposing the personal information of 147 million people, underscored the importance of robust cybersecurity (Schwab, 2016; Fruhlinger, 2020).
 
 #### The breach highlighted the need for strict data protection laws, shown by the fines Equifax faced. It eroded public trust and showed how system failures impact consumer confidence. Ethically, it raised concerns about corporate responsibility and data protection neglect. Professionally, it emphasized the need for continuous learning in machine learning and cybersecurity. This incident taught me the importance of legal, social, ethical, and professional considerations in guiding responsible practices in Industry 4.0 (Fruhlinger, 2020).
 
@@ -73,7 +73,7 @@
 
 ### Training a Simple Perceptron for Binary Classification of Logical AND Operation
 
-#### In this exercise, a perceptron was implemented to perform binary classification using the logical AND function. The inputs included all combinations of two binary values: (0,0), (0,1), (1,0), and (1,1), with corresponding outputs (0, 0, 0, 1). The perceptron was initialized with zero weights and a learning rate of 0.1. Using a step function activation, it returned 1 if the weighted sum was ≥ 1, otherwise 0.
+#### In this exercise, a perceptron was implemented to perform binary classification using the logical AND function. The inputs included all combinations of two binary values: (0,0), (0,1), (1,0), and (1,1), with corresponding outputs (0, 0, 0, 1). The perceptron was initialised with zero weights and a learning rate of 0.1. Using a step function activation, it returned 1 if the weighted sum was ≥ 1, otherwise 0.
 
 #### During training, the perceptron iteratively adjusted its weights to minimize errors by looping through each input instance, calculating predictions, determining errors, and updating weights if errors were non-zero. This process continued until the total error across all instances was zero, indicating that the perceptron had learned the correct weights to accurately classify the inputs. After training, the perceptron correctly classified all four input instances of the AND function: producing 0 for (0,0), (0,1), and (1,0), and 1 for (1,1). This demonstrated the perceptron’s successful learning of the logical AND operation (Viridi, 2023).
 
