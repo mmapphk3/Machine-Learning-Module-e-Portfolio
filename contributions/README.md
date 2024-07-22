@@ -6,7 +6,8 @@
 
 #### As a key member of our analytics team, I played a crucial role in shaping our project on high-spending Airbnb customers' preferences. During our brainstorming session on May 26th, we defined our main business question: “What are customers booking the top range of Airbnb reservations looking for?” Each member contributed ideas, fostering a collaborative environment. We also formulated follow-up questions on top booking areas, geographic patterns, and amenities influencing preferences. My facilitation of open discussions and encouragement of diverse perspectives were pivotal in ensuring well-rounded team decisions.
 
-<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/MeetingNotes.png" alt="Corr Plot 1" style="width: 50%;"> <p>Fig1: May 31st: Meeting Notes</p>
+<img src="https://github.com/mmapphk3/Machine-Learning-Module-e-Portfolio/raw/main/assets/images/MeetingNotes.png" alt="Corr Plot 1" style="width: 50%;"> 
+<p>Fig1: May 31st: Meeting Notes</p>
 
 #### Fig 1 shows our May 31st meeting meeting notes, I focused on K-means clustering for profiling high-spending Airbnb customers during our exploratory data analyses (EDA). Analyzing the top 25% of spenders in Manhattan and Brooklyn, I cleaned the data and used the elbow method to identify four distinct customer segments. Cluster 2, the highest spenders, preferred entire homes or apartments in Manhattan for extended stays, indicating a demand for space and luxury. These insights were critical for shaping our marketing strategies to effectively target premium customers.
 
